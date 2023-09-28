@@ -1,7 +1,7 @@
 # Print_Image
 Print_image with Rpi
 
-# Ouput
+# Output
 
 
 ![WhatsApp Image 2023-09-28 at 1 04 33 PM](https://github.com/RamkumarMohan6383/Print_Image/assets/95962773/23e74df9-ec3b-4940-ae49-7fa902887f9a)
